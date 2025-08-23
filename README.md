@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diya-BR
-- 👀 I’m interested in Python, Java, AI/ML, and Web development 
+- 👀 I’m interested in Python, C, AI/ML, and Web development 
 - 🌱 I’m currently learning Python (advanced concepts), C, and Web Development
 - 💞️ I’m looking to collaborate on open-source projects, and AI/ML applications 🤖
 - 📫 How to reach me Diyabr133@gmail.com
