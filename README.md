@@ -14,8 +14,7 @@ Building responsive MERN stack applications
 
 😄 Pronouns: She/Her
 
-⚡ Fun Fact: I believe the best way to learn a library is to build a game with it. I'm currently turning "vibe-coding" sessions into structured, documented projects. 🚀
-- ⚡ Fun fact: I enjoy exploring the intersection of software development and artificial intelligence, constantly seeking innovative ways to enhance user experiences.
+- ⚡ Fun fact: I’m a fan of Rapid Prototyping—I love taking a complex idea and turning it into a functional codebase as quickly as possible.
 
 <!---
 Diya-BR/Diya-BR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
