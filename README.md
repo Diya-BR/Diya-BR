@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @Diya-BR
-- 👀 I’m interested in Python, C, AI/ML, and Web development 
-- 🌱 I’m currently learning Python (advanced concepts), C, and Web Development
-- 💞️ I’m looking to collaborate on open-source projects, and AI/ML applications 🤖
-- 📫 How to reach me Diyabr133@gmail.com
-- 😄 Pronouns: She/Her
+👋 Hi, I’m @Diya-BR
+
+👀 Interests: Python Backend, AI/ML Architectures, and Full-Stack Web Development.
+
+🌱 Current Sprint: > * Advanced Python patterns (just finished a custom Game Engine!)
+
+Strengthening DSA foundations in C
+
+Building responsive MERN stack applications
+
+💞️ Collaboration: I'm looking to contribute to Open Source projects that focus on Automation, Data Visualization, or ML-driven Web Apps.
+
+📫 Connect: Diyabr133@gmail.com
+
+😄 Pronouns: She/Her
+
+⚡ Fun Fact: I believe the best way to learn a library is to build a game with it. I'm currently turning "vibe-coding" sessions into structured, documented projects. 🚀
 - ⚡ Fun fact: I enjoy exploring the intersection of software development and artificial intelligence, constantly seeking innovative ways to enhance user experiences.
 
 <!---
